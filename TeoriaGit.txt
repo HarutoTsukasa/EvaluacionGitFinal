@@ -15,3 +15,6 @@ Gestión distribuida. Al igual que Darcs, BitKeeper, Mercurial, SVK, Bazaar y Mo
 cada programador una copia local del historial del desarrollo entero, y los cambios se propagan
 entre los repositorios locales. Los cambios se importan como ramas adicionales y pueden ser
 fusionados en la misma manera que se hace con la rama local.
+
+Néstor Javier Riaño Nossa
+cc 10257582202
